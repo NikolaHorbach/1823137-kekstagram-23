@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Nikola Horbach](https://up.htmlacademy.ru/javascript/23/user/1823137).
-* Наставник: `Неизвестно`.
+* Наставник: [Ilya Lukyanov](https://htmlacademy.ru/profile/id1811107).
 
 ---
 
